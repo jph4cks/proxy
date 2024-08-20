@@ -1,14 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""
-    proxy.py
-    ~~~~~~~~
-    
-    HTTP Proxy Server in Python.
-    
-    :copyright: (c) 2013 by Abhinav Singh.
-    :license: BSD, see LICENSE for more details.
-"""
+
 VERSION = (0, 2)
 __version__ = '.'.join(map(str, VERSION[0:2]))
 __description__ = 'HTTP Proxy Server in Python'
