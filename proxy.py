@@ -4,9 +4,9 @@
 VERSION = (0, 2)
 __version__ = '.'.join(map(str, VERSION[0:2]))
 __description__ = 'HTTP Proxy Server in Python'
-__author__ = 'Abhinav Singh'
-__author_email__ = 'mailsforabhinav@gmail.com'
-__homepage__ = 'https://github.com/abhinavsingh/proxy.py'
+__author__ = 'jph4cks'
+__author_email__ = ''
+__homepage__ = 'https://github.com/jph4cks/proxy'
 __license__ = 'BSD'
 
 import sys
